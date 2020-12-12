@@ -22,9 +22,9 @@
 
 <!-- In meeting the minimum viable product (MVP) specifications listed below, your web page should look like the solution screen shots of the home and about pages (found in the design-files folder): -->
 
-[Click here for the home page example](https://tk-assets.lambdaschool.com/39a49225-8ac9-43da-aa90-514fd60ae99a_sprint-challenge-ui-home-example.png)
+<!-- [Click here for the home page example](https://tk-assets.lambdaschool.com/39a49225-8ac9-43da-aa90-514fd60ae99a_sprint-challenge-ui-home-example.png)
 
-[Click here for the about page example](https://tk-assets.lambdaschool.com/ede1bb1a-63ff-4801-8c02-3efa2f603190_sprint-challenge-ui-about-example.png)
+[Click here for the about page example](https://tk-assets.lambdaschool.com/ede1bb1a-63ff-4801-8c02-3efa2f603190_sprint-challenge-ui-about-example.png) -->
 
 <!-- ## Self-Study Questions -->
 
@@ -70,29 +70,29 @@ Follow these steps for completing your project.
 
 
 
-## Minimum Viable Product
+<!-- ## Minimum Viable Product -->
 
-Your finished project must include all of the following requirements:
+<!-- Your finished project must include all of the following requirements: -->
 
-### Home Page
+<!-- ### Home Page -->
 
-[Review the provided design file for the home page](design-files/home.png).  Notice the navigation and header images are missing.
+<!-- [Review the provided design file for the home page](design-files/home.png).  Notice the navigation and header images are missing.
 
-* [ ] Build the HTML and CSS to create the missing navigation and header.
-* [ ] Link the `About` navigation item to the [about.html](about.html) page
+* [X] Build the HTML and CSS to create the missing navigation and header.
+* [X] Link the `About` navigation item to the [about.html](about.html) page -->
 
-You will also notice there are 10 boxes on the home page that need background colors.  Use this list below to correctly style each box:
+<!-- You will also notice there are 10 boxes on the home page that need background colors.  Use this list below to correctly style each box:
 
-* [ ] box1: `teal`
-* [ ] box2: `gold`
-* [ ] box3: `cadetblue`
-* [ ] box4: `coral`
-* [ ] box5: `crimson`
-* [ ] box6: `forestgreen`
-* [ ] box7: `darkorchid`
-* [ ] box8: `hotpink`
-* [ ] box9: `indigo`
-* [ ] box10: `dodgerblue`
+* [X] box1: `teal`
+* [X] box2: `gold`
+* [X] box3: `cadetblue`
+* [X] box4: `coral`
+* [X] box5: `crimson`
+* [X] box6: `forestgreen`
+* [X] box7: `darkorchid`
+* [X] box8: `hotpink`
+* [X] box9: `indigo`
+* [X] box10: `dodgerblue` -->
 
 ### About Page
 
