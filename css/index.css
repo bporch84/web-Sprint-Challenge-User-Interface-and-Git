@@ -71,6 +71,32 @@ p {
     margin: 0 auto;
 }
 
+header {
+    display: flex;
+    align-items: baseline;
+    padding: 2.5% 0;
+}
+
+nav {
+    width: 100%;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+nav ul li a {
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+
+main {
+    padding: 2.5% 0;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
@@ -112,6 +138,46 @@ p {
     justify-content: center;
 }
 
+.middle-content .boxes .box:nth-child(1) {
+    background-color: teal;
+}
+
+.middle-content .boxes .box:nth-child(2) {
+    background-color: gold;
+}
+
+.middle-content .boxes .box:nth-child(3) {
+    background-color: cadetblue;
+}
+
+.middle-content .boxes .box:nth-child(4) {
+    background-color: coral;
+}
+
+.middle-content .boxes .box:nth-child(5) {
+    background-color: crimson;
+}
+
+.middle-content .boxes .box:nth-child(6) {
+    background-color: forestgreen;
+}
+
+.middle-content .boxes .box:nth-child(7) {
+    background-color: darkorchid;
+}
+
+.middle-content .boxes .box:nth-child(8) {
+    background-color: hotpink;
+}
+
+.middle-content .boxes .box:nth-child(9) {
+    background-color: indigo;
+}
+
+.middle-content .boxes .box:nth-child(10) {
+    background-color: dodgerblue;
+}
+
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -143,4 +209,54 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+
+section.about {
+    width: 95%;
+    margin: auto;
+    padding-bottom: 3%;
+    border-bottom: 1px black dashed;
+    margin-bottom: 2.5%;
+    font-weight: bold;
+}
+
+section.learn-more {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+section.learn-more div {
+    width: 50%;
+    padding-bottom: 2%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    margin: auto;
+}
+
+div hr {
+    border-top: 1px dashed black;
+}
+
+section.learn-more img {
+    padding: 10px 0;
+}
+
+section.learn-more p {
+    padding-bottom: 10px;
+}
+
+section.learn-more button {
+    margin: 10px 0;
+    border-radius: 20%;
+    height: 45px;
+    width: 135px;
+    background-color: white;
+    font-size: 18px;;
+}
+
+section.work-together {
+    width: 95%;
+    margin: 2.5% auto;
+    padding-bottom: 2%;
 }
