@@ -84,10 +84,11 @@ nav {
 nav ul {
     display: flex;
     justify-content: space-around;
-    font-weight: bold;
 }
 
 nav ul li a {
+    font-size: 14px;
+    font-weight: bold;
     text-decoration: none;
     color: black;
 }
@@ -213,7 +214,49 @@ footer nav a {
 section.about {
     width: 95%;
     margin: auto;
-    padding-bottom: 2.5%;
+    padding-bottom: 3%;
     border-bottom: 1px black dashed;
     margin-bottom: 2.5%;
+    font-weight: bold;
+}
+
+section.learn-more {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+section.learn-more div {
+    width: 50%;
+    padding-bottom: 2%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    margin: auto;
+}
+
+div hr {
+    border-top: 1px dashed black;
+}
+
+section.learn-more img {
+    padding: 10px 0;
+}
+
+section.learn-more p {
+    padding-bottom: 10px;
+}
+
+section.learn-more button {
+    margin: 10px 0;
+    border-radius: 20%;
+    height: 45px;
+    width: 135px;
+    background-color: white;
+    font-size: 18px;;
+}
+
+section.work-together {
+    width: 95%;
+    margin: 2.5% auto;
+    padding-bottom: 2%;
 }
