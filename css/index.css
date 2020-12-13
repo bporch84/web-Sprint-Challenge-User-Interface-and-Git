@@ -209,3 +209,11 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+section.about {
+    width: 95%;
+    margin: auto;
+    padding-bottom: 2.5%;
+    border-bottom: 1px black dashed;
+    margin-bottom: 2.5%;
+}

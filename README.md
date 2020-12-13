@@ -94,9 +94,9 @@ Follow these steps for completing your project.
 * [X] box9: `indigo`
 * [X] box10: `dodgerblue` -->
 
-### About Page
+<!-- ### About Page -->
 
-[Review the provided design file for the about page](design-files/about.png). You have been provided the HTML wrapper, footer, and page content for the about page. Create the rest of the missing HTML and CSS to match the design file.
+<!-- [Review the provided design file for the about page](design-files/about.png). You have been provided the HTML wrapper, footer, and page content for the about page. Create the rest of the missing HTML and CSS to match the design file. -->
 
 * [ ] Copy and paste your home page navigation and header into the about page
 * [ ] Update the header image with the about page image
